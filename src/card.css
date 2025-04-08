@@ -1,0 +1,17 @@
+.card{
+    height: 220px;
+    width: 200px;
+    padding: 1rem;
+   
+    position:relative;
+    z-index: 1;
+}
+.isfav{
+    position: absolute;
+    top :10px;
+    width: 30px;
+    height: 30px;
+    z-index: 2;
+    /* background-color: red; */
+}
+

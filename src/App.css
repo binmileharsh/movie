@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.left {
+  height: 100vh;
+  width: 20vw;
+  background-color: #21201e;
+  
+  
+}
+.rightbar {
+  /* background-color: blue; */
+  height: 750px;
+  width: 80vw;
+}
+.coffe{
+  padding-top: 30px;
+  color: white;
+  height: 40px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.optiondiv a{
+  text-decoration: none;
+  font-size: 18px;
+  color :white
+}
+.optiondiv{
+  display: flex;
+  flex-direction: column;
+  gap :20px;
+  margin-top: 3rem;
+  align-items: center;
+}
+.topright{
+  height: 300px;
+  width: 100%;
+  
+  object-fit: contain;
+  
+  background-image: url("/rectangle201.png");
+  background-size: contain;
+
+}
+.movieapp{
+  display: flex;
+  width: 100vw;
+}
+.bottomright{
+  width: 100%;
+  height: 500px;
+  background-color:#37312A;
+  display: flex;
+  padding-right: 20px;
+  gap: 2rem;
+}
+/* .topright img{
+  
+  background-size: contain;
+  
+} */
+.rightfav{
+  background-color: grey;
+  width: 80vw;
+  height:700px;
+  display: flex;
+  flex-direction: column;
+}
+.leftfav{
+  text-decoration: none;
+  color: white;
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.5rem;
+}
+.rightfav2{
+  width: 23%;
+
+  
+
+
+}
+.toprightfav{
+  width: 100%;
+  height: 10rem;
+  display:flex;
+ 
+justify-content: space-between;}
+
+
+.BB{
+  margin-top: 2rem;
+  font-size: 2rem;
+  color: white;
+}
+.favarea{
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+.trendarea{
+  display: flex;
+  gap :3rem
+}
+.mainmoviee{
+  display: flex;
+  height: 300px;
+  width: 100%;
+}
+.mm{
+  display: flex;
+  flex-direction: column;
+}
+.bigimage{
+
+  width: 100%;
+  height: 100%;
+
+  
+}
+.coming-soon{
+  color: white;
+}
