@@ -58,7 +58,9 @@ function App() {
         <div className="rightbar">
           <div className="topright">
             <Mainmovie currentMovie={currentMovie}/ >
+            <h1>movies</h1>
           </div>
+          
           <div className="bottomright">
             {
               movies.map((movie,i)=>{

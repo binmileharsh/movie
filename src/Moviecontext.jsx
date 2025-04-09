@@ -18,15 +18,40 @@ export const MovieProvider = ({ children }) => {
       title: "Moonfall",
       year: 2023,
       genre: "Sci-Fi",
-      image: "/tokyo.png",
+      image: "/Rectangle 213.png",
       isFavourite: false,
       trending:true
     },
     {
-      title: "Kife in Paris",
+      title: "Moonnfall",
+      year: 2023,
+      genre: "Sci-Fi",
+      image: "/x.png",
+      isFavourite: false,
+      trending:true
+    },
+    {
+      title: "Moonffall",
+      year: 2023,
+      genre: "Sci-Fi",
+      image: "/Rectangle 213.png",
+      isFavourite: false,
+      trending:true
+    },
+    {
+      title: "Moonfaall",
+      year: 2023,
+      genre: "Sci-Fi",
+      image: "/tokyo.png",
+      isFavourite: false,
+      trending:true
+    }
+    ,
+    {
+      title: "Life in Paris",
       year: 2018,
       genre: "Romance",
-      image: "/tokyo.png",
+      image: "/x.png",
       isFavourite: false,
       trending:true
     },
@@ -34,7 +59,7 @@ export const MovieProvider = ({ children }) => {
       title: "House of Gucci",
       year: 2024,
       genre: "Crime",
-      image: "/tokyo.png",
+      image: "/x.png",
       isFavourite: true,
       trending:false
     },
